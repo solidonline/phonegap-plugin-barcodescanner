@@ -1,9 +1,9 @@
 {
-  "name": "phonegap-plugin-barcodescanner",
+  "name": "phonegap-plugin-barcodescanner-solid-fork",
   "version": "8.1.1-dev",
   "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
   "cordova": {
-    "id": "phonegap-plugin-barcodescanner",
+    "id": "phonegap-plugin-barcodescanner-solid-fork",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
+    "url": "git+https://github.com/solidonline/phonegap-plugin-barcodescanner.git"
   },
   "keywords": [
     "ecosystem:cordova",
